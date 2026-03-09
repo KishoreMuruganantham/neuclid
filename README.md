@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>A reliable, multi-agent AI system that solves JEE-style math problems with deterministic computation, RAG-powered context, human-in-the-loop validation, and experience-based self-learning</strong>
+  <strong>A reliable, multi-agent AI system that solves JEE-style math problems with deterministic computation, RAG-powered context, human-in-the-loop validation, and experience-based self-learning.</strong>
 </p>
 
 <p align="center">
