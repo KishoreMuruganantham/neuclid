@@ -396,7 +396,7 @@ Dangerous builtins like `exec`, `eval`, `open`, `__import__` are replaced with s
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/neuclid.git
+git clone https://github.com/KishoreMuruganantham/neuclid.git
 cd neuclid
 
 # Create virtual environment (recommended)
